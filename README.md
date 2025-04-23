@@ -31,15 +31,16 @@ Analisar dados de vendas simulados de uma loja online, respondendo perguntas com
 ```bash
 ├── data/
 │   └── dados_vendas.csv        # Dados simulados
-├── src/
-│   ├── etl.py                  # Pipeline de leitura, limpeza e transformação
-│   └── analise.py              # Cálculos e análises
 ├── notebooks/
 │   └── analise_vendas.ipynb    # Notebook exploratório
 ├── output/
 │   └── relatorios.csv          # Relatórios salvos (exportados)
-├── requirements.txt
-└── README.md
+├── src/
+│   ├── analise.py              # Cálculos e análises
+│   └── etl.py                  # Pipeline de leitura, limpeza e transformação
+├── README.md
+└── requirements.txt
+
 ```
 
 --- 
