@@ -5,7 +5,7 @@ from classes import Extraction, TransformAndLoad
 read_csv = Extraction('data/dados_vendas.csv')
 read_csv.read_csv()
 
-# Transform
+# Transform an Load
 
 transform_csv = TransformAndLoad('data/dados_vendas.csv')
 transform_csv.sales_by_state()
