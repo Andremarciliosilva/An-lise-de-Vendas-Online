@@ -48,31 +48,31 @@ Analisar dados de vendas simulados de uma loja online, respondendo perguntas com
 
 O dataset contém 500 registros com as seguintes colunas:
 
-•	pedido_id
-•	data_compra
-•	cliente_id
-•	produto
-•	categoria
-•	quantidade
-•	preco_unitario
-•	cidade
-•	estado
-•	forma_pagamento
+•	pedido_id  
+•	data_compra  
+•	cliente_id  
+•	produto  
+•	categoria  
+•	quantidade  
+•	preco_unitario  
+•	cidade  
+•	estado  
+•	forma_pagamento  
 
 ---
 
 📊 **Análises Realizadas**
 
-•	Receita total por estado
-•	Produto mais vendido por categoria
-•	Top 5 clientes por volume de compras
-•	Receita mensal ao longo do ano
+•	Receita total por estado  
+•	Produto mais vendido por categoria  
+•	Top 5 clientes por volume de compras  
+•	Receita mensal ao longo do ano  
 
 ---
 
 🧠 **Aprendizados**
 
-•	Manipulação e limpeza de dados com Pandas
-•	Agrupamentos e análises estatísticas
-•	Visualizações com gráficos
-•	Estruturação de um projetos de dados
+•	Manipulação e limpeza de dados com Pandas  
+•	Agrupamentos e análises estatísticas  
+•	Visualizações com gráficos  
+•	Estruturação de um projetos de dados  
