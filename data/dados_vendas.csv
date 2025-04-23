@@ -1,0 +1,501 @@
+pedido_id,data_compra,cliente_id,produto,categoria,quantidade,preco_unitario,cidade,estado,forma_pagamento
+1,2023-07-11,1047,Notebook,Eletrônicos,4,3500,Fortaleza,CE,Boleto
+2,2023-11-17,1050,HD Externo,Armazenamento,3,300,Manaus,AM,Cartão de Crédito
+3,2023-01-23,1078,Placa de Vídeo,Componentes,2,2500,Rio de Janeiro,RJ,Boleto
+4,2023-04-25,1007,HD Externo,Armazenamento,1,300,Brasília,DF,Cartão de Crédito
+5,2023-10-13,1087,Notebook,Eletrônicos,1,3500,Recife,PE,Cartão de Débito
+6,2023-05-06,1069,Cadeira Gamer,Móveis,2,950,Brasília,DF,Boleto
+7,2023-06-10,1051,Webcam,Acessórios,2,230,Manaus,AM,Transferência
+8,2023-12-20,1090,Webcam,Acessórios,3,230,Belo Horizonte,MG,Transferência
+9,2023-06-08,1045,Cadeira Gamer,Móveis,2,950,Fortaleza,CE,Pix
+10,2023-10-14,1023,Pen Drive,Armazenamento,4,35,Rio de Janeiro,RJ,Cartão de Débito
+11,2023-10-09,1039,Notebook,Eletrônicos,3,3500,São Paulo,SP,Pix
+12,2023-01-15,1055,Notebook,Eletrônicos,2,3500,Recife,PE,Cartão de Débito
+13,2023-01-21,1029,Monitor,Eletrônicos,4,1200,Salvador,BA,Cartão de Débito
+14,2023-01-26,1089,Webcam,Acessórios,2,230,Belo Horizonte,MG,Cartão de Crédito
+15,2023-10-12,1015,Webcam,Acessórios,5,230,Brasília,DF,Cartão de Débito
+16,2023-10-17,1091,Notebook,Eletrônicos,5,3500,Curitiba,PR,Cartão de Débito
+17,2023-12-25,1050,Webcam,Acessórios,1,230,Salvador,BA,Transferência
+18,2023-02-20,1079,Notebook,Eletrônicos,1,3500,Fortaleza,CE,Boleto
+19,2023-02-14,1041,Notebook,Eletrônicos,4,3500,São Paulo,SP,Cartão de Débito
+20,2023-11-25,1085,HD Externo,Armazenamento,3,300,Fortaleza,CE,Transferência
+21,2023-08-28,1038,Webcam,Acessórios,4,230,São Paulo,SP,Pix
+22,2023-11-07,1049,Mouse,Acessórios,5,50,Fortaleza,CE,Cartão de Débito
+23,2023-11-14,1033,Teclado,Acessórios,2,80,Fortaleza,CE,Boleto
+24,2023-07-30,1011,Fonte ATX,Componentes,4,400,Fortaleza,CE,Pix
+25,2023-07-12,1074,Monitor,Eletrônicos,5,1200,Belo Horizonte,MG,Transferência
+26,2023-06-08,1033,Monitor,Eletrônicos,2,1200,Belo Horizonte,MG,Transferência
+27,2023-08-03,1009,Mouse,Acessórios,1,50,Fortaleza,CE,Cartão de Crédito
+28,2023-07-28,1023,Mouse,Acessórios,4,50,Curitiba,PR,Boleto
+29,2023-02-17,1083,Teclado,Acessórios,5,80,Manaus,AM,Cartão de Débito
+30,2023-01-26,1089,Webcam,Acessórios,5,230,Manaus,AM,Boleto
+31,2023-09-13,1041,Cadeira Gamer,Móveis,2,950,Rio de Janeiro,RJ,Pix
+32,2023-07-26,1097,Teclado,Acessórios,2,80,Recife,PE,Boleto
+33,2023-02-13,1018,Webcam,Acessórios,2,230,Brasília,DF,Transferência
+34,2023-04-30,1036,Pen Drive,Armazenamento,3,35,Fortaleza,CE,Cartão de Débito
+35,2023-08-05,1051,Placa de Vídeo,Componentes,3,2500,Recife,PE,Cartão de Débito
+36,2023-09-29,1044,Webcam,Acessórios,1,230,Belo Horizonte,MG,Transferência
+37,2023-10-05,1038,Monitor,Eletrônicos,3,1200,São Paulo,SP,Pix
+38,2023-04-27,1081,Pen Drive,Armazenamento,5,35,Manaus,AM,Boleto
+39,2023-06-02,1059,Monitor,Eletrônicos,5,1200,Curitiba,PR,Pix
+40,2023-11-20,1095,Placa de Vídeo,Componentes,3,2500,Manaus,AM,Boleto
+41,2023-09-20,1089,Monitor,Eletrônicos,2,1200,Brasília,DF,Pix
+42,2023-04-16,1003,HD Externo,Armazenamento,5,300,Recife,PE,Pix
+43,2023-05-10,1054,HD Externo,Armazenamento,5,300,Rio de Janeiro,RJ,Pix
+44,2023-08-06,1075,Pen Drive,Armazenamento,4,35,São Paulo,SP,Transferência
+45,2023-10-17,1056,Notebook,Eletrônicos,5,3500,São Paulo,SP,Pix
+46,2023-09-24,1078,Teclado,Acessórios,1,80,Salvador,BA,Transferência
+47,2023-06-30,1080,Cadeira Gamer,Móveis,5,950,Recife,PE,Boleto
+48,2023-08-03,1091,Placa de Vídeo,Componentes,2,2500,Manaus,AM,Cartão de Crédito
+49,2023-07-01,1039,Webcam,Acessórios,5,230,Salvador,BA,Boleto
+50,2023-09-14,1083,Cadeira Gamer,Móveis,5,950,São Paulo,SP,Pix
+51,2023-07-12,1067,Fonte ATX,Componentes,1,400,Rio de Janeiro,RJ,Transferência
+52,2023-06-19,1030,Notebook,Eletrônicos,2,3500,Fortaleza,CE,Transferência
+53,2023-11-16,1060,Cadeira Gamer,Móveis,1,950,Manaus,AM,Cartão de Débito
+54,2023-03-30,1038,Pen Drive,Armazenamento,5,35,Manaus,AM,Cartão de Débito
+55,2023-08-10,1023,Fonte ATX,Componentes,4,400,Porto Alegre,RS,Transferência
+56,2023-01-31,1078,Cadeira Gamer,Móveis,4,950,Rio de Janeiro,RJ,Cartão de Crédito
+57,2023-09-12,1094,Mouse,Acessórios,2,50,Manaus,AM,Boleto
+58,2023-09-26,1004,Fonte ATX,Componentes,4,400,Recife,PE,Cartão de Débito
+59,2023-06-03,1024,Pen Drive,Armazenamento,3,35,Manaus,AM,Cartão de Crédito
+60,2023-10-07,1022,HD Externo,Armazenamento,2,300,Manaus,AM,Boleto
+61,2023-05-23,1084,Teclado,Acessórios,5,80,Salvador,BA,Pix
+62,2023-06-11,1040,Mouse,Acessórios,5,50,Salvador,BA,Cartão de Débito
+63,2023-10-03,1001,Webcam,Acessórios,1,230,São Paulo,SP,Transferência
+64,2023-12-08,1091,Teclado,Acessórios,1,80,Porto Alegre,RS,Pix
+65,2023-10-13,1044,HD Externo,Armazenamento,5,300,Belo Horizonte,MG,Transferência
+66,2023-11-28,1087,Webcam,Acessórios,1,230,Salvador,BA,Transferência
+67,2023-05-27,1076,Placa de Vídeo,Componentes,2,2500,Curitiba,PR,Transferência
+68,2023-12-22,1032,Pen Drive,Armazenamento,1,35,Rio de Janeiro,RJ,Transferência
+69,2023-10-29,1064,Notebook,Eletrônicos,4,3500,Recife,PE,Boleto
+70,2023-05-06,1009,Notebook,Eletrônicos,2,3500,São Paulo,SP,Pix
+71,2023-11-09,1011,Notebook,Eletrônicos,1,3500,Porto Alegre,RS,Pix
+72,2023-11-02,1002,Pen Drive,Armazenamento,4,35,Manaus,AM,Cartão de Crédito
+73,2023-09-17,1014,Fonte ATX,Componentes,3,400,Rio de Janeiro,RJ,Cartão de Crédito
+74,2023-03-02,1056,HD Externo,Armazenamento,4,300,Fortaleza,CE,Boleto
+75,2023-09-28,1088,Mouse,Acessórios,3,50,Curitiba,PR,Boleto
+76,2023-12-28,1065,Teclado,Acessórios,2,80,Belo Horizonte,MG,Pix
+77,2023-04-01,1084,Mouse,Acessórios,1,50,Brasília,DF,Pix
+78,2023-07-10,1009,Webcam,Acessórios,3,230,Belo Horizonte,MG,Cartão de Débito
+79,2023-09-14,1029,Mouse,Acessórios,3,50,Fortaleza,CE,Transferência
+80,2023-06-17,1060,Monitor,Eletrônicos,2,1200,Fortaleza,CE,Transferência
+81,2023-04-21,1067,Mouse,Acessórios,2,50,Salvador,BA,Boleto
+82,2023-04-17,1062,Cadeira Gamer,Móveis,1,950,Rio de Janeiro,RJ,Cartão de Débito
+83,2023-03-01,1058,Monitor,Eletrônicos,2,1200,Rio de Janeiro,RJ,Cartão de Crédito
+84,2023-12-16,1044,Fonte ATX,Componentes,1,400,Fortaleza,CE,Boleto
+85,2023-11-02,1072,Monitor,Eletrônicos,2,1200,Manaus,AM,Pix
+86,2023-12-14,1050,Placa de Vídeo,Componentes,5,2500,São Paulo,SP,Pix
+87,2023-08-29,1088,Cadeira Gamer,Móveis,5,950,Manaus,AM,Transferência
+88,2023-12-26,1009,Pen Drive,Armazenamento,3,35,Porto Alegre,RS,Pix
+89,2023-08-23,1078,Monitor,Eletrônicos,4,1200,São Paulo,SP,Boleto
+90,2023-11-26,1004,Cadeira Gamer,Móveis,5,950,Brasília,DF,Cartão de Crédito
+91,2023-06-18,1024,Cadeira Gamer,Móveis,2,950,Porto Alegre,RS,Transferência
+92,2023-12-17,1038,Placa de Vídeo,Componentes,4,2500,Rio de Janeiro,RJ,Pix
+93,2023-07-23,1065,HD Externo,Armazenamento,2,300,Rio de Janeiro,RJ,Cartão de Débito
+94,2023-01-25,1032,Mouse,Acessórios,5,50,Curitiba,PR,Boleto
+95,2023-11-13,1012,HD Externo,Armazenamento,2,300,São Paulo,SP,Transferência
+96,2023-08-01,1059,Pen Drive,Armazenamento,2,35,Rio de Janeiro,RJ,Boleto
+97,2023-07-06,1063,Cadeira Gamer,Móveis,2,950,Belo Horizonte,MG,Boleto
+98,2023-09-11,1007,Cadeira Gamer,Móveis,3,950,São Paulo,SP,Transferência
+99,2023-09-23,1036,Monitor,Eletrônicos,3,1200,Fortaleza,CE,Transferência
+100,2023-03-19,1082,Notebook,Eletrônicos,5,3500,Salvador,BA,Boleto
+101,2023-03-03,1092,Webcam,Acessórios,4,230,Fortaleza,CE,Cartão de Débito
+102,2023-11-19,1071,Pen Drive,Armazenamento,2,35,Brasília,DF,Boleto
+103,2023-01-27,1053,Mouse,Acessórios,4,50,Recife,PE,Cartão de Débito
+104,2023-06-06,1095,Pen Drive,Armazenamento,5,35,Brasília,DF,Cartão de Débito
+105,2023-08-08,1057,Cadeira Gamer,Móveis,4,950,Fortaleza,CE,Cartão de Débito
+106,2023-08-16,1051,Webcam,Acessórios,3,230,Porto Alegre,RS,Boleto
+107,2023-09-27,1015,Mouse,Acessórios,4,50,Curitiba,PR,Boleto
+108,2023-08-08,1069,Cadeira Gamer,Móveis,1,950,Recife,PE,Pix
+109,2023-10-29,1066,Monitor,Eletrônicos,5,1200,Porto Alegre,RS,Pix
+110,2023-08-22,1041,HD Externo,Armazenamento,5,300,Rio de Janeiro,RJ,Boleto
+111,2023-12-07,1079,Teclado,Acessórios,2,80,Brasília,DF,Boleto
+112,2023-03-31,1009,Pen Drive,Armazenamento,2,35,Brasília,DF,Transferência
+113,2023-06-16,1066,HD Externo,Armazenamento,4,300,Curitiba,PR,Transferência
+114,2023-05-30,1018,Teclado,Acessórios,2,80,Manaus,AM,Transferência
+115,2023-04-25,1069,HD Externo,Armazenamento,1,300,São Paulo,SP,Boleto
+116,2023-12-10,1075,Pen Drive,Armazenamento,4,35,Brasília,DF,Boleto
+117,2023-07-12,1047,Webcam,Acessórios,5,230,Belo Horizonte,MG,Transferência
+118,2023-01-26,1097,Mouse,Acessórios,1,50,Belo Horizonte,MG,Pix
+119,2023-10-06,1041,Monitor,Eletrônicos,1,1200,Recife,PE,Cartão de Débito
+120,2023-01-31,1082,Webcam,Acessórios,4,230,Belo Horizonte,MG,Cartão de Crédito
+121,2023-03-11,1042,Webcam,Acessórios,3,230,Recife,PE,Transferência
+122,2023-11-16,1051,Placa de Vídeo,Componentes,5,2500,Manaus,AM,Cartão de Crédito
+123,2023-03-19,1059,Webcam,Acessórios,2,230,Curitiba,PR,Boleto
+124,2023-12-25,1095,Monitor,Eletrônicos,5,1200,Fortaleza,CE,Cartão de Crédito
+125,2023-03-23,1008,Monitor,Eletrônicos,1,1200,Porto Alegre,RS,Cartão de Crédito
+126,2023-10-02,1001,HD Externo,Armazenamento,1,300,Fortaleza,CE,Boleto
+127,2023-03-15,1076,Placa de Vídeo,Componentes,2,2500,Rio de Janeiro,RJ,Pix
+128,2023-01-28,1027,Monitor,Eletrônicos,4,1200,São Paulo,SP,Cartão de Débito
+129,2023-01-28,1081,Cadeira Gamer,Móveis,5,950,Fortaleza,CE,Boleto
+130,2023-07-23,1051,Pen Drive,Armazenamento,2,35,Rio de Janeiro,RJ,Pix
+131,2023-11-07,1093,Cadeira Gamer,Móveis,5,950,Fortaleza,CE,Cartão de Débito
+132,2023-12-18,1080,Monitor,Eletrônicos,3,1200,Rio de Janeiro,RJ,Cartão de Crédito
+133,2023-12-29,1003,Notebook,Eletrônicos,5,3500,Curitiba,PR,Cartão de Débito
+134,2023-06-22,1090,Webcam,Acessórios,4,230,Manaus,AM,Cartão de Crédito
+135,2023-05-30,1007,Placa de Vídeo,Componentes,4,2500,Porto Alegre,RS,Cartão de Crédito
+136,2023-02-18,1004,HD Externo,Armazenamento,4,300,Manaus,AM,Pix
+137,2023-05-25,1088,Teclado,Acessórios,4,80,Porto Alegre,RS,Boleto
+138,2023-06-26,1033,Webcam,Acessórios,1,230,Brasília,DF,Pix
+139,2023-03-16,1033,Teclado,Acessórios,1,80,Manaus,AM,Pix
+140,2023-09-04,1064,Fonte ATX,Componentes,2,400,Salvador,BA,Boleto
+141,2023-06-28,1094,HD Externo,Armazenamento,4,300,São Paulo,SP,Pix
+142,2023-09-14,1091,Webcam,Acessórios,5,230,Recife,PE,Transferência
+143,2023-01-13,1015,Mouse,Acessórios,1,50,Recife,PE,Boleto
+144,2023-12-11,1064,Mouse,Acessórios,4,50,Recife,PE,Transferência
+145,2023-12-14,1100,Placa de Vídeo,Componentes,4,2500,São Paulo,SP,Cartão de Débito
+146,2023-12-11,1011,Monitor,Eletrônicos,1,1200,Manaus,AM,Transferência
+147,2023-02-17,1088,Cadeira Gamer,Móveis,3,950,Fortaleza,CE,Transferência
+148,2023-05-02,1018,Fonte ATX,Componentes,1,400,São Paulo,SP,Boleto
+149,2023-12-21,1042,Notebook,Eletrônicos,1,3500,Salvador,BA,Pix
+150,2023-04-09,1066,Fonte ATX,Componentes,3,400,São Paulo,SP,Transferência
+151,2023-03-18,1092,Fonte ATX,Componentes,5,400,Fortaleza,CE,Cartão de Crédito
+152,2023-06-30,1004,Monitor,Eletrônicos,1,1200,Salvador,BA,Pix
+153,2023-01-13,1022,Fonte ATX,Componentes,1,400,Belo Horizonte,MG,Boleto
+154,2023-05-15,1014,Pen Drive,Armazenamento,5,35,Brasília,DF,Cartão de Crédito
+155,2023-10-07,1077,Monitor,Eletrônicos,5,1200,Salvador,BA,Cartão de Débito
+156,2023-09-05,1093,Fonte ATX,Componentes,1,400,Fortaleza,CE,Transferência
+157,2023-08-09,1003,Mouse,Acessórios,4,50,São Paulo,SP,Cartão de Crédito
+158,2023-11-20,1041,HD Externo,Armazenamento,4,300,Belo Horizonte,MG,Boleto
+159,2023-04-17,1063,Monitor,Eletrônicos,5,1200,Salvador,BA,Pix
+160,2023-04-10,1094,HD Externo,Armazenamento,4,300,Rio de Janeiro,RJ,Pix
+161,2023-05-14,1005,Fonte ATX,Componentes,1,400,Curitiba,PR,Cartão de Crédito
+162,2023-09-17,1057,Webcam,Acessórios,4,230,Porto Alegre,RS,Boleto
+163,2023-10-09,1086,Teclado,Acessórios,2,80,Salvador,BA,Pix
+164,2023-04-07,1008,Teclado,Acessórios,1,80,Curitiba,PR,Boleto
+165,2023-07-01,1088,Cadeira Gamer,Móveis,4,950,Porto Alegre,RS,Cartão de Crédito
+166,2023-10-27,1050,Fonte ATX,Componentes,2,400,Porto Alegre,RS,Cartão de Débito
+167,2023-05-30,1030,Mouse,Acessórios,2,50,Fortaleza,CE,Pix
+168,2023-11-18,1070,Pen Drive,Armazenamento,5,35,Manaus,AM,Pix
+169,2023-01-27,1060,Cadeira Gamer,Móveis,4,950,Rio de Janeiro,RJ,Boleto
+170,2023-01-13,1064,Teclado,Acessórios,2,80,Manaus,AM,Boleto
+171,2023-03-18,1052,Mouse,Acessórios,1,50,Recife,PE,Cartão de Crédito
+172,2023-03-25,1083,Placa de Vídeo,Componentes,5,2500,Porto Alegre,RS,Boleto
+173,2023-12-28,1065,Notebook,Eletrônicos,4,3500,Recife,PE,Cartão de Débito
+174,2023-06-05,1017,Placa de Vídeo,Componentes,3,2500,Belo Horizonte,MG,Pix
+175,2023-05-31,1002,Webcam,Acessórios,2,230,Rio de Janeiro,RJ,Boleto
+176,2023-07-07,1004,Monitor,Eletrônicos,5,1200,Manaus,AM,Transferência
+177,2023-06-12,1093,Cadeira Gamer,Móveis,3,950,Recife,PE,Cartão de Débito
+178,2023-10-17,1042,Mouse,Acessórios,5,50,São Paulo,SP,Cartão de Crédito
+179,2023-07-28,1000,HD Externo,Armazenamento,5,300,Curitiba,PR,Cartão de Débito
+180,2023-09-19,1020,Placa de Vídeo,Componentes,3,2500,Porto Alegre,RS,Cartão de Débito
+181,2023-08-01,1001,Notebook,Eletrônicos,1,3500,São Paulo,SP,Boleto
+182,2023-05-01,1067,HD Externo,Armazenamento,2,300,Manaus,AM,Transferência
+183,2023-06-12,1054,HD Externo,Armazenamento,2,300,Brasília,DF,Cartão de Débito
+184,2023-12-05,1076,Notebook,Eletrônicos,4,3500,Rio de Janeiro,RJ,Pix
+185,2023-03-20,1012,Cadeira Gamer,Móveis,4,950,Brasília,DF,Pix
+186,2023-10-03,1039,Teclado,Acessórios,1,80,Rio de Janeiro,RJ,Transferência
+187,2023-06-09,1036,Pen Drive,Armazenamento,1,35,Brasília,DF,Boleto
+188,2023-11-12,1088,Webcam,Acessórios,3,230,Brasília,DF,Transferência
+189,2023-04-15,1020,Teclado,Acessórios,4,80,Recife,PE,Cartão de Débito
+190,2023-04-30,1001,Mouse,Acessórios,2,50,Recife,PE,Boleto
+191,2023-11-15,1000,HD Externo,Armazenamento,1,300,Belo Horizonte,MG,Cartão de Débito
+192,2023-03-26,1058,Placa de Vídeo,Componentes,3,2500,Curitiba,PR,Cartão de Crédito
+193,2023-08-21,1024,Fonte ATX,Componentes,3,400,Porto Alegre,RS,Transferência
+194,2023-08-24,1075,Cadeira Gamer,Móveis,4,950,Fortaleza,CE,Transferência
+195,2023-10-22,1049,Teclado,Acessórios,3,80,Recife,PE,Pix
+196,2023-06-01,1020,Monitor,Eletrônicos,1,1200,Fortaleza,CE,Pix
+197,2023-04-09,1068,Webcam,Acessórios,3,230,Brasília,DF,Transferência
+198,2023-01-03,1025,Cadeira Gamer,Móveis,2,950,Curitiba,PR,Cartão de Débito
+199,2023-05-21,1084,Cadeira Gamer,Móveis,3,950,Curitiba,PR,Transferência
+200,2023-10-02,1083,Placa de Vídeo,Componentes,5,2500,Recife,PE,Pix
+201,2023-11-06,1016,Mouse,Acessórios,3,50,Curitiba,PR,Transferência
+202,2023-10-07,1032,Cadeira Gamer,Móveis,4,950,São Paulo,SP,Transferência
+203,2023-01-20,1036,Monitor,Eletrônicos,5,1200,Curitiba,PR,Boleto
+204,2023-07-03,1065,Monitor,Eletrônicos,5,1200,São Paulo,SP,Transferência
+205,2023-07-27,1018,Notebook,Eletrônicos,5,3500,Manaus,AM,Cartão de Crédito
+206,2023-08-06,1013,Pen Drive,Armazenamento,2,35,São Paulo,SP,Pix
+207,2023-12-31,1087,HD Externo,Armazenamento,3,300,Recife,PE,Boleto
+208,2023-09-28,1025,Placa de Vídeo,Componentes,2,2500,Manaus,AM,Cartão de Crédito
+209,2023-03-11,1062,Fonte ATX,Componentes,4,400,Fortaleza,CE,Pix
+210,2023-02-17,1040,Mouse,Acessórios,4,50,Rio de Janeiro,RJ,Transferência
+211,2023-02-26,1072,Mouse,Acessórios,4,50,Belo Horizonte,MG,Pix
+212,2023-06-25,1028,Monitor,Eletrônicos,5,1200,Brasília,DF,Boleto
+213,2023-08-07,1034,Pen Drive,Armazenamento,3,35,Brasília,DF,Boleto
+214,2023-07-05,1079,Mouse,Acessórios,5,50,Fortaleza,CE,Cartão de Crédito
+215,2023-10-05,1097,HD Externo,Armazenamento,3,300,Fortaleza,CE,Transferência
+216,2023-05-01,1089,Placa de Vídeo,Componentes,2,2500,Salvador,BA,Cartão de Crédito
+217,2023-09-16,1078,Pen Drive,Armazenamento,3,35,Fortaleza,CE,Cartão de Débito
+218,2023-03-07,1072,Cadeira Gamer,Móveis,3,950,Recife,PE,Transferência
+219,2023-10-13,1098,Teclado,Acessórios,1,80,Salvador,BA,Cartão de Crédito
+220,2023-10-15,1008,Fonte ATX,Componentes,2,400,Belo Horizonte,MG,Boleto
+221,2023-09-30,1043,Fonte ATX,Componentes,3,400,Rio de Janeiro,RJ,Pix
+222,2023-09-23,1021,Mouse,Acessórios,1,50,Fortaleza,CE,Cartão de Débito
+223,2023-10-30,1009,Mouse,Acessórios,5,50,Rio de Janeiro,RJ,Transferência
+224,2023-07-14,1097,Notebook,Eletrônicos,5,3500,Brasília,DF,Boleto
+225,2023-06-29,1068,Fonte ATX,Componentes,4,400,Brasília,DF,Transferência
+226,2023-07-02,1002,Monitor,Eletrônicos,4,1200,Recife,PE,Pix
+227,2023-06-10,1062,Pen Drive,Armazenamento,1,35,Curitiba,PR,Pix
+228,2023-12-25,1100,Monitor,Eletrônicos,2,1200,Curitiba,PR,Pix
+229,2023-05-01,1044,Cadeira Gamer,Móveis,4,950,Manaus,AM,Pix
+230,2023-06-13,1085,Pen Drive,Armazenamento,3,35,Recife,PE,Boleto
+231,2023-06-08,1055,Webcam,Acessórios,3,230,Belo Horizonte,MG,Cartão de Crédito
+232,2023-07-13,1009,Notebook,Eletrônicos,4,3500,Recife,PE,Boleto
+233,2023-08-22,1096,Fonte ATX,Componentes,1,400,Rio de Janeiro,RJ,Boleto
+234,2023-08-04,1007,Pen Drive,Armazenamento,1,35,Rio de Janeiro,RJ,Cartão de Crédito
+235,2023-01-19,1021,Placa de Vídeo,Componentes,5,2500,Porto Alegre,RS,Cartão de Débito
+236,2023-05-20,1082,Pen Drive,Armazenamento,3,35,Salvador,BA,Cartão de Crédito
+237,2023-02-12,1018,Pen Drive,Armazenamento,1,35,Curitiba,PR,Boleto
+238,2023-09-24,1044,Webcam,Acessórios,4,230,Rio de Janeiro,RJ,Cartão de Crédito
+239,2023-01-02,1042,Pen Drive,Armazenamento,3,35,Fortaleza,CE,Cartão de Débito
+240,2023-06-09,1029,Notebook,Eletrônicos,4,3500,Curitiba,PR,Transferência
+241,2023-11-25,1049,Monitor,Eletrônicos,5,1200,Curitiba,PR,Cartão de Débito
+242,2023-12-17,1050,Notebook,Eletrônicos,2,3500,Brasília,DF,Cartão de Débito
+243,2023-04-29,1005,Fonte ATX,Componentes,1,400,Rio de Janeiro,RJ,Transferência
+244,2023-01-16,1076,Teclado,Acessórios,3,80,Belo Horizonte,MG,Pix
+245,2023-04-03,1027,Webcam,Acessórios,5,230,Fortaleza,CE,Transferência
+246,2023-02-11,1089,Cadeira Gamer,Móveis,2,950,Rio de Janeiro,RJ,Cartão de Débito
+247,2023-08-02,1018,Cadeira Gamer,Móveis,2,950,Salvador,BA,Transferência
+248,2023-03-12,1000,Monitor,Eletrônicos,3,1200,Recife,PE,Pix
+249,2023-09-18,1007,Notebook,Eletrônicos,4,3500,Manaus,AM,Cartão de Crédito
+250,2023-09-10,1008,Pen Drive,Armazenamento,1,35,Recife,PE,Pix
+251,2023-07-06,1089,Mouse,Acessórios,5,50,São Paulo,SP,Cartão de Débito
+252,2023-02-26,1015,Notebook,Eletrônicos,2,3500,Curitiba,PR,Cartão de Débito
+253,2023-01-16,1015,Pen Drive,Armazenamento,1,35,Rio de Janeiro,RJ,Cartão de Crédito
+254,2023-07-13,1023,Mouse,Acessórios,1,50,Recife,PE,Pix
+255,2023-09-05,1066,Cadeira Gamer,Móveis,3,950,Recife,PE,Cartão de Débito
+256,2023-10-27,1048,HD Externo,Armazenamento,2,300,Manaus,AM,Cartão de Débito
+257,2023-06-22,1095,Placa de Vídeo,Componentes,3,2500,Recife,PE,Cartão de Débito
+258,2023-03-14,1030,Webcam,Acessórios,2,230,Brasília,DF,Transferência
+259,2023-01-19,1096,Placa de Vídeo,Componentes,2,2500,Salvador,BA,Cartão de Crédito
+260,2023-12-04,1096,Pen Drive,Armazenamento,3,35,Porto Alegre,RS,Pix
+261,2023-07-14,1058,Teclado,Acessórios,4,80,Curitiba,PR,Cartão de Crédito
+262,2023-01-20,1024,Notebook,Eletrônicos,3,3500,São Paulo,SP,Cartão de Débito
+263,2023-01-07,1060,Cadeira Gamer,Móveis,1,950,Salvador,BA,Boleto
+264,2023-10-16,1078,Fonte ATX,Componentes,1,400,Rio de Janeiro,RJ,Cartão de Débito
+265,2023-04-10,1000,Mouse,Acessórios,3,50,São Paulo,SP,Transferência
+266,2023-04-12,1075,Pen Drive,Armazenamento,3,35,São Paulo,SP,Pix
+267,2023-06-07,1019,Teclado,Acessórios,3,80,Belo Horizonte,MG,Cartão de Crédito
+268,2023-10-17,1093,Monitor,Eletrônicos,4,1200,São Paulo,SP,Transferência
+269,2023-09-18,1002,Cadeira Gamer,Móveis,1,950,Manaus,AM,Pix
+270,2023-02-05,1022,Mouse,Acessórios,4,50,Rio de Janeiro,RJ,Cartão de Débito
+271,2023-08-26,1096,Pen Drive,Armazenamento,2,35,Curitiba,PR,Transferência
+272,2023-01-12,1042,Cadeira Gamer,Móveis,1,950,Recife,PE,Boleto
+273,2023-08-14,1040,Placa de Vídeo,Componentes,4,2500,São Paulo,SP,Cartão de Crédito
+274,2023-10-21,1032,Monitor,Eletrônicos,2,1200,Salvador,BA,Cartão de Crédito
+275,2023-12-28,1100,Mouse,Acessórios,3,50,Recife,PE,Cartão de Crédito
+276,2023-11-03,1100,Cadeira Gamer,Móveis,5,950,Rio de Janeiro,RJ,Pix
+277,2023-08-17,1085,Teclado,Acessórios,2,80,Porto Alegre,RS,Transferência
+278,2023-01-26,1081,Mouse,Acessórios,1,50,Curitiba,PR,Transferência
+279,2023-04-06,1061,Fonte ATX,Componentes,4,400,Fortaleza,CE,Cartão de Crédito
+280,2023-02-19,1001,Fonte ATX,Componentes,5,400,Brasília,DF,Pix
+281,2023-09-11,1081,Teclado,Acessórios,4,80,São Paulo,SP,Cartão de Crédito
+282,2023-02-12,1082,Fonte ATX,Componentes,1,400,Brasília,DF,Cartão de Crédito
+283,2023-03-22,1078,Teclado,Acessórios,3,80,Salvador,BA,Cartão de Débito
+284,2023-07-25,1015,Webcam,Acessórios,3,230,São Paulo,SP,Transferência
+285,2023-04-02,1031,Placa de Vídeo,Componentes,3,2500,Rio de Janeiro,RJ,Pix
+286,2023-08-21,1058,Monitor,Eletrônicos,5,1200,Manaus,AM,Pix
+287,2023-02-25,1055,Mouse,Acessórios,4,50,Rio de Janeiro,RJ,Transferência
+288,2023-09-28,1004,Notebook,Eletrônicos,3,3500,Manaus,AM,Cartão de Débito
+289,2023-10-07,1068,Teclado,Acessórios,2,80,Manaus,AM,Transferência
+290,2023-11-29,1083,Notebook,Eletrônicos,5,3500,Salvador,BA,Boleto
+291,2023-02-15,1063,Monitor,Eletrônicos,5,1200,São Paulo,SP,Boleto
+292,2023-08-12,1081,Mouse,Acessórios,4,50,Manaus,AM,Cartão de Crédito
+293,2023-02-01,1032,HD Externo,Armazenamento,4,300,São Paulo,SP,Transferência
+294,2023-09-26,1069,Cadeira Gamer,Móveis,4,950,Belo Horizonte,MG,Cartão de Débito
+295,2023-04-02,1059,HD Externo,Armazenamento,1,300,Recife,PE,Cartão de Crédito
+296,2023-04-17,1049,Monitor,Eletrônicos,1,1200,Rio de Janeiro,RJ,Cartão de Crédito
+297,2023-04-08,1022,Mouse,Acessórios,5,50,Brasília,DF,Cartão de Débito
+298,2023-09-16,1013,Pen Drive,Armazenamento,2,35,Belo Horizonte,MG,Boleto
+299,2023-08-14,1015,Mouse,Acessórios,3,50,Rio de Janeiro,RJ,Transferência
+300,2023-10-13,1015,Fonte ATX,Componentes,1,400,Rio de Janeiro,RJ,Cartão de Débito
+301,2023-05-03,1071,Pen Drive,Armazenamento,4,35,Porto Alegre,RS,Cartão de Débito
+302,2023-12-18,1066,HD Externo,Armazenamento,2,300,Salvador,BA,Cartão de Débito
+303,2023-08-05,1003,Notebook,Eletrônicos,1,3500,Recife,PE,Boleto
+304,2023-02-01,1032,Webcam,Acessórios,2,230,Manaus,AM,Transferência
+305,2023-10-05,1069,Webcam,Acessórios,1,230,Salvador,BA,Pix
+306,2023-11-08,1063,Pen Drive,Armazenamento,3,35,Curitiba,PR,Transferência
+307,2023-11-07,1071,Webcam,Acessórios,1,230,Manaus,AM,Transferência
+308,2023-11-18,1051,Notebook,Eletrônicos,2,3500,Brasília,DF,Cartão de Crédito
+309,2023-03-10,1094,Cadeira Gamer,Móveis,3,950,Brasília,DF,Cartão de Crédito
+310,2023-04-17,1082,Placa de Vídeo,Componentes,1,2500,Brasília,DF,Pix
+311,2023-06-02,1050,Monitor,Eletrônicos,4,1200,Brasília,DF,Pix
+312,2023-01-08,1100,Notebook,Eletrônicos,2,3500,Curitiba,PR,Transferência
+313,2023-11-18,1038,HD Externo,Armazenamento,4,300,Porto Alegre,RS,Transferência
+314,2023-03-18,1098,Teclado,Acessórios,3,80,Salvador,BA,Boleto
+315,2023-08-26,1016,Webcam,Acessórios,5,230,Salvador,BA,Cartão de Crédito
+316,2023-08-01,1053,Mouse,Acessórios,2,50,Brasília,DF,Cartão de Débito
+317,2023-01-09,1095,Fonte ATX,Componentes,5,400,Recife,PE,Cartão de Débito
+318,2023-06-26,1094,Webcam,Acessórios,3,230,Porto Alegre,RS,Cartão de Débito
+319,2023-07-26,1083,Pen Drive,Armazenamento,5,35,Porto Alegre,RS,Cartão de Crédito
+320,2023-01-16,1037,Mouse,Acessórios,2,50,Salvador,BA,Boleto
+321,2023-03-15,1097,HD Externo,Armazenamento,1,300,Porto Alegre,RS,Boleto
+322,2023-07-02,1087,Mouse,Acessórios,1,50,Fortaleza,CE,Pix
+323,2023-12-11,1073,Mouse,Acessórios,4,50,Salvador,BA,Pix
+324,2023-01-30,1060,Teclado,Acessórios,2,80,Porto Alegre,RS,Pix
+325,2023-01-24,1050,Placa de Vídeo,Componentes,5,2500,São Paulo,SP,Cartão de Crédito
+326,2023-08-15,1096,Mouse,Acessórios,4,50,Recife,PE,Transferência
+327,2023-03-21,1003,HD Externo,Armazenamento,3,300,Rio de Janeiro,RJ,Transferência
+328,2023-08-11,1100,Webcam,Acessórios,3,230,Brasília,DF,Cartão de Débito
+329,2023-11-18,1016,HD Externo,Armazenamento,2,300,Fortaleza,CE,Pix
+330,2023-08-22,1070,Fonte ATX,Componentes,1,400,Salvador,BA,Cartão de Crédito
+331,2023-01-20,1031,Cadeira Gamer,Móveis,1,950,Rio de Janeiro,RJ,Cartão de Crédito
+332,2023-05-06,1020,Notebook,Eletrônicos,3,3500,Belo Horizonte,MG,Cartão de Débito
+333,2023-11-01,1088,Teclado,Acessórios,5,80,Salvador,BA,Pix
+334,2023-06-04,1100,Monitor,Eletrônicos,5,1200,Brasília,DF,Transferência
+335,2023-12-27,1045,Cadeira Gamer,Móveis,1,950,São Paulo,SP,Cartão de Crédito
+336,2023-02-08,1028,Notebook,Eletrônicos,3,3500,Manaus,AM,Cartão de Crédito
+337,2023-06-13,1068,Webcam,Acessórios,2,230,Porto Alegre,RS,Transferência
+338,2023-12-04,1013,Webcam,Acessórios,2,230,Porto Alegre,RS,Cartão de Débito
+339,2023-03-19,1086,Mouse,Acessórios,4,50,São Paulo,SP,Transferência
+340,2023-12-28,1041,Mouse,Acessórios,3,50,Salvador,BA,Pix
+341,2023-11-23,1069,Cadeira Gamer,Móveis,2,950,São Paulo,SP,Cartão de Débito
+342,2023-04-30,1033,Mouse,Acessórios,2,50,Porto Alegre,RS,Boleto
+343,2023-01-27,1098,Teclado,Acessórios,5,80,Rio de Janeiro,RJ,Transferência
+344,2023-04-14,1074,Webcam,Acessórios,1,230,Rio de Janeiro,RJ,Boleto
+345,2023-04-08,1076,HD Externo,Armazenamento,4,300,Recife,PE,Cartão de Débito
+346,2023-05-18,1082,Cadeira Gamer,Móveis,5,950,Curitiba,PR,Boleto
+347,2023-03-01,1093,Pen Drive,Armazenamento,4,35,Salvador,BA,Cartão de Débito
+348,2023-07-09,1074,Mouse,Acessórios,5,50,Manaus,AM,Transferência
+349,2023-03-09,1066,Teclado,Acessórios,4,80,Curitiba,PR,Transferência
+350,2023-12-05,1054,Placa de Vídeo,Componentes,4,2500,Porto Alegre,RS,Transferência
+351,2023-10-05,1018,Webcam,Acessórios,4,230,Fortaleza,CE,Cartão de Débito
+352,2023-03-02,1075,Mouse,Acessórios,4,50,Rio de Janeiro,RJ,Boleto
+353,2023-03-03,1075,Teclado,Acessórios,4,80,Manaus,AM,Pix
+354,2023-03-19,1066,Teclado,Acessórios,5,80,Porto Alegre,RS,Pix
+355,2023-10-29,1076,Monitor,Eletrônicos,1,1200,Belo Horizonte,MG,Boleto
+356,2023-03-23,1086,HD Externo,Armazenamento,4,300,Curitiba,PR,Boleto
+357,2023-07-20,1047,Fonte ATX,Componentes,3,400,Recife,PE,Cartão de Crédito
+358,2023-05-24,1075,HD Externo,Armazenamento,3,300,Fortaleza,CE,Transferência
+359,2023-11-20,1091,Placa de Vídeo,Componentes,4,2500,Porto Alegre,RS,Boleto
+360,2023-12-12,1040,HD Externo,Armazenamento,1,300,Brasília,DF,Transferência
+361,2023-11-02,1076,HD Externo,Armazenamento,4,300,Fortaleza,CE,Cartão de Débito
+362,2023-09-30,1098,Cadeira Gamer,Móveis,2,950,Salvador,BA,Transferência
+363,2023-04-10,1033,Webcam,Acessórios,3,230,São Paulo,SP,Transferência
+364,2023-03-13,1064,Placa de Vídeo,Componentes,1,2500,Fortaleza,CE,Transferência
+365,2023-01-12,1090,Monitor,Eletrônicos,4,1200,Curitiba,PR,Cartão de Crédito
+366,2023-02-24,1011,Monitor,Eletrônicos,4,1200,São Paulo,SP,Pix
+367,2023-10-07,1023,Notebook,Eletrônicos,3,3500,Brasília,DF,Pix
+368,2023-11-16,1082,Monitor,Eletrônicos,4,1200,Recife,PE,Transferência
+369,2023-09-22,1077,Cadeira Gamer,Móveis,4,950,Salvador,BA,Transferência
+370,2023-06-13,1065,HD Externo,Armazenamento,5,300,Fortaleza,CE,Cartão de Crédito
+371,2023-08-27,1062,Fonte ATX,Componentes,4,400,Porto Alegre,RS,Boleto
+372,2023-08-10,1061,HD Externo,Armazenamento,2,300,Recife,PE,Pix
+373,2023-12-20,1017,Teclado,Acessórios,4,80,Curitiba,PR,Cartão de Crédito
+374,2023-03-20,1083,Pen Drive,Armazenamento,3,35,Manaus,AM,Pix
+375,2023-12-24,1010,Mouse,Acessórios,5,50,Recife,PE,Cartão de Crédito
+376,2023-12-21,1018,HD Externo,Armazenamento,1,300,Salvador,BA,Transferência
+377,2023-03-19,1066,Webcam,Acessórios,3,230,Belo Horizonte,MG,Cartão de Débito
+378,2023-11-11,1001,Placa de Vídeo,Componentes,1,2500,Porto Alegre,RS,Cartão de Débito
+379,2023-11-17,1045,Monitor,Eletrônicos,4,1200,Fortaleza,CE,Transferência
+380,2023-02-02,1032,Cadeira Gamer,Móveis,4,950,Manaus,AM,Cartão de Crédito
+381,2023-12-31,1098,Notebook,Eletrônicos,1,3500,Brasília,DF,Cartão de Débito
+382,2023-12-31,1044,Fonte ATX,Componentes,5,400,São Paulo,SP,Transferência
+383,2023-07-14,1059,Cadeira Gamer,Móveis,3,950,Rio de Janeiro,RJ,Cartão de Débito
+384,2023-02-03,1095,Cadeira Gamer,Móveis,2,950,Recife,PE,Cartão de Crédito
+385,2023-04-13,1015,Monitor,Eletrônicos,2,1200,Rio de Janeiro,RJ,Boleto
+386,2023-04-29,1062,Webcam,Acessórios,1,230,São Paulo,SP,Cartão de Crédito
+387,2023-01-27,1078,Notebook,Eletrônicos,2,3500,Recife,PE,Cartão de Crédito
+388,2023-10-18,1026,Monitor,Eletrônicos,3,1200,Recife,PE,Cartão de Débito
+389,2023-10-21,1068,Cadeira Gamer,Móveis,3,950,Fortaleza,CE,Boleto
+390,2023-03-12,1040,Mouse,Acessórios,3,50,Salvador,BA,Pix
+391,2023-09-02,1066,Mouse,Acessórios,4,50,São Paulo,SP,Boleto
+392,2023-05-10,1030,Pen Drive,Armazenamento,5,35,Curitiba,PR,Cartão de Crédito
+393,2023-07-16,1027,Fonte ATX,Componentes,3,400,Belo Horizonte,MG,Pix
+394,2023-03-06,1085,Cadeira Gamer,Móveis,3,950,Porto Alegre,RS,Transferência
+395,2023-01-11,1055,Fonte ATX,Componentes,5,400,Curitiba,PR,Boleto
+396,2023-08-27,1074,Notebook,Eletrônicos,1,3500,Curitiba,PR,Cartão de Crédito
+397,2023-06-23,1009,Pen Drive,Armazenamento,4,35,Curitiba,PR,Pix
+398,2023-02-04,1030,Cadeira Gamer,Móveis,4,950,Manaus,AM,Cartão de Crédito
+399,2023-02-22,1079,Placa de Vídeo,Componentes,3,2500,Salvador,BA,Cartão de Crédito
+400,2023-08-20,1018,Mouse,Acessórios,4,50,Brasília,DF,Boleto
+401,2023-01-12,1099,Cadeira Gamer,Móveis,2,950,Belo Horizonte,MG,Pix
+402,2023-02-11,1023,HD Externo,Armazenamento,5,300,Porto Alegre,RS,Boleto
+403,2023-04-27,1038,Notebook,Eletrônicos,5,3500,Recife,PE,Transferência
+404,2023-07-23,1052,Cadeira Gamer,Móveis,1,950,Curitiba,PR,Boleto
+405,2023-04-12,1000,Placa de Vídeo,Componentes,2,2500,Curitiba,PR,Cartão de Crédito
+406,2023-12-28,1050,Mouse,Acessórios,4,50,São Paulo,SP,Cartão de Crédito
+407,2023-03-20,1039,Fonte ATX,Componentes,3,400,Salvador,BA,Pix
+408,2023-07-30,1005,Fonte ATX,Componentes,2,400,Belo Horizonte,MG,Cartão de Crédito
+409,2023-03-16,1081,Pen Drive,Armazenamento,1,35,Fortaleza,CE,Cartão de Débito
+410,2023-02-01,1083,Fonte ATX,Componentes,5,400,Rio de Janeiro,RJ,Boleto
+411,2023-08-29,1012,Monitor,Eletrônicos,1,1200,Rio de Janeiro,RJ,Cartão de Débito
+412,2023-04-20,1057,HD Externo,Armazenamento,1,300,Recife,PE,Boleto
+413,2023-06-04,1030,Teclado,Acessórios,1,80,Porto Alegre,RS,Pix
+414,2023-07-24,1023,Fonte ATX,Componentes,4,400,Belo Horizonte,MG,Transferência
+415,2023-12-26,1079,HD Externo,Armazenamento,2,300,Manaus,AM,Cartão de Crédito
+416,2023-04-07,1011,Mouse,Acessórios,5,50,Curitiba,PR,Boleto
+417,2023-09-30,1004,Webcam,Acessórios,5,230,Manaus,AM,Cartão de Débito
+418,2023-06-04,1074,Webcam,Acessórios,2,230,Salvador,BA,Transferência
+419,2023-09-04,1013,Mouse,Acessórios,3,50,São Paulo,SP,Pix
+420,2023-04-11,1092,Webcam,Acessórios,4,230,Brasília,DF,Pix
+421,2023-02-05,1076,Mouse,Acessórios,4,50,Recife,PE,Boleto
+422,2023-02-12,1037,Teclado,Acessórios,3,80,Salvador,BA,Cartão de Débito
+423,2023-04-08,1058,Notebook,Eletrônicos,5,3500,Belo Horizonte,MG,Cartão de Débito
+424,2023-01-13,1019,Cadeira Gamer,Móveis,5,950,Manaus,AM,Cartão de Débito
+425,2023-03-02,1023,Fonte ATX,Componentes,2,400,São Paulo,SP,Transferência
+426,2023-09-18,1076,Monitor,Eletrônicos,2,1200,Rio de Janeiro,RJ,Transferência
+427,2023-03-19,1024,Teclado,Acessórios,2,80,Manaus,AM,Pix
+428,2023-06-28,1065,Teclado,Acessórios,5,80,Rio de Janeiro,RJ,Cartão de Débito
+429,2023-10-21,1051,Teclado,Acessórios,1,80,Salvador,BA,Pix
+430,2023-01-07,1017,Webcam,Acessórios,1,230,Recife,PE,Transferência
+431,2023-02-22,1030,Cadeira Gamer,Móveis,4,950,São Paulo,SP,Cartão de Crédito
+432,2023-02-04,1043,Mouse,Acessórios,2,50,Recife,PE,Pix
+433,2023-10-24,1029,Webcam,Acessórios,3,230,Salvador,BA,Cartão de Débito
+434,2023-12-02,1062,Mouse,Acessórios,3,50,Brasília,DF,Pix
+435,2023-12-02,1092,Notebook,Eletrônicos,4,3500,Curitiba,PR,Boleto
+436,2023-06-08,1007,Pen Drive,Armazenamento,5,35,São Paulo,SP,Boleto
+437,2023-05-07,1062,Monitor,Eletrônicos,3,1200,Brasília,DF,Cartão de Crédito
+438,2023-05-04,1001,Pen Drive,Armazenamento,2,35,Salvador,BA,Boleto
+439,2023-07-17,1087,Monitor,Eletrônicos,2,1200,Fortaleza,CE,Pix
+440,2023-10-28,1067,Monitor,Eletrônicos,2,1200,Rio de Janeiro,RJ,Cartão de Crédito
+441,2023-07-09,1017,Notebook,Eletrônicos,2,3500,Salvador,BA,Cartão de Crédito
+442,2023-09-01,1074,HD Externo,Armazenamento,1,300,Curitiba,PR,Pix
+443,2023-11-16,1095,Notebook,Eletrônicos,1,3500,Porto Alegre,RS,Transferência
+444,2023-02-01,1032,Webcam,Acessórios,5,230,Salvador,BA,Pix
+445,2023-06-24,1003,Monitor,Eletrônicos,1,1200,Salvador,BA,Boleto
+446,2023-11-26,1065,Teclado,Acessórios,3,80,Brasília,DF,Cartão de Crédito
+447,2023-10-25,1053,Monitor,Eletrônicos,2,1200,Salvador,BA,Transferência
+448,2023-01-14,1065,Notebook,Eletrônicos,1,3500,Belo Horizonte,MG,Transferência
+449,2023-07-18,1054,Teclado,Acessórios,5,80,Porto Alegre,RS,Pix
+450,2023-09-07,1096,Monitor,Eletrônicos,4,1200,Porto Alegre,RS,Boleto
+451,2023-02-04,1042,Mouse,Acessórios,1,50,Rio de Janeiro,RJ,Cartão de Débito
+452,2023-07-14,1024,Webcam,Acessórios,3,230,São Paulo,SP,Pix
+453,2023-07-02,1055,Webcam,Acessórios,5,230,Porto Alegre,RS,Boleto
+454,2023-09-19,1084,Placa de Vídeo,Componentes,3,2500,Brasília,DF,Cartão de Débito
+455,2023-08-18,1092,HD Externo,Armazenamento,3,300,São Paulo,SP,Cartão de Crédito
+456,2023-10-05,1094,Notebook,Eletrônicos,5,3500,São Paulo,SP,Boleto
+457,2023-08-22,1031,Notebook,Eletrônicos,1,3500,São Paulo,SP,Boleto
+458,2023-02-06,1082,Cadeira Gamer,Móveis,5,950,Porto Alegre,RS,Pix
+459,2023-09-02,1085,Webcam,Acessórios,3,230,Recife,PE,Boleto
+460,2023-09-12,1012,Webcam,Acessórios,5,230,Recife,PE,Transferência
+461,2023-10-02,1065,Notebook,Eletrônicos,3,3500,Salvador,BA,Transferência
+462,2023-05-01,1070,Notebook,Eletrônicos,5,3500,Curitiba,PR,Transferência
+463,2023-01-06,1010,Mouse,Acessórios,4,50,Salvador,BA,Pix
+464,2023-02-28,1030,Pen Drive,Armazenamento,5,35,Brasília,DF,Cartão de Débito
+465,2023-09-04,1014,Placa de Vídeo,Componentes,3,2500,Manaus,AM,Transferência
+466,2023-09-11,1084,Fonte ATX,Componentes,2,400,Manaus,AM,Cartão de Crédito
+467,2023-03-10,1089,Placa de Vídeo,Componentes,4,2500,Rio de Janeiro,RJ,Pix
+468,2023-03-08,1077,Mouse,Acessórios,4,50,Brasília,DF,Cartão de Crédito
+469,2023-08-15,1098,Webcam,Acessórios,2,230,Salvador,BA,Transferência
+470,2023-05-01,1056,Cadeira Gamer,Móveis,3,950,Rio de Janeiro,RJ,Cartão de Crédito
+471,2023-11-13,1096,HD Externo,Armazenamento,1,300,Brasília,DF,Pix
+472,2023-10-18,1079,Fonte ATX,Componentes,5,400,Porto Alegre,RS,Pix
+473,2023-01-14,1028,Cadeira Gamer,Móveis,5,950,Curitiba,PR,Boleto
+474,2023-05-16,1002,Notebook,Eletrônicos,4,3500,Belo Horizonte,MG,Cartão de Débito
+475,2023-12-12,1056,Pen Drive,Armazenamento,2,35,Porto Alegre,RS,Cartão de Crédito
+476,2023-06-11,1011,Fonte ATX,Componentes,3,400,Brasília,DF,Cartão de Crédito
+477,2023-03-05,1067,Cadeira Gamer,Móveis,5,950,Curitiba,PR,Cartão de Crédito
+478,2023-01-29,1044,Pen Drive,Armazenamento,2,35,São Paulo,SP,Cartão de Débito
+479,2023-08-27,1030,Cadeira Gamer,Móveis,3,950,Rio de Janeiro,RJ,Cartão de Débito
+480,2023-06-04,1040,Pen Drive,Armazenamento,4,35,São Paulo,SP,Pix
+481,2023-05-16,1052,Cadeira Gamer,Móveis,2,950,Rio de Janeiro,RJ,Pix
+482,2023-05-16,1099,Pen Drive,Armazenamento,3,35,Recife,PE,Pix
+483,2023-09-08,1025,HD Externo,Armazenamento,1,300,Belo Horizonte,MG,Cartão de Crédito
+484,2023-01-26,1001,Cadeira Gamer,Móveis,2,950,Rio de Janeiro,RJ,Pix
+485,2023-07-20,1009,Teclado,Acessórios,5,80,Brasília,DF,Pix
+486,2023-09-27,1052,Pen Drive,Armazenamento,1,35,Brasília,DF,Pix
+487,2023-02-22,1058,Webcam,Acessórios,2,230,Belo Horizonte,MG,Boleto
+488,2023-02-21,1070,Webcam,Acessórios,2,230,Fortaleza,CE,Boleto
+489,2023-05-29,1019,Mouse,Acessórios,2,50,Curitiba,PR,Cartão de Débito
+490,2023-12-03,1068,Mouse,Acessórios,1,50,Curitiba,PR,Cartão de Débito
+491,2023-03-02,1091,Teclado,Acessórios,1,80,Recife,PE,Cartão de Débito
+492,2023-08-19,1049,Notebook,Eletrônicos,4,3500,Salvador,BA,Pix
+493,2023-05-05,1080,Cadeira Gamer,Móveis,4,950,Salvador,BA,Boleto
+494,2023-12-06,1013,Notebook,Eletrônicos,1,3500,Belo Horizonte,MG,Transferência
+495,2023-11-23,1043,HD Externo,Armazenamento,3,300,Belo Horizonte,MG,Cartão de Crédito
+496,2023-12-31,1045,Monitor,Eletrônicos,4,1200,Recife,PE,Boleto
+497,2023-06-08,1085,Teclado,Acessórios,5,80,Porto Alegre,RS,Cartão de Crédito
+498,2023-10-06,1057,Monitor,Eletrônicos,2,1200,Brasília,DF,Boleto
+499,2023-03-18,1096,Webcam,Acessórios,2,230,Fortaleza,CE,Cartão de Débito
+500,2023-02-15,1015,Cadeira Gamer,Móveis,3,950,Rio de Janeiro,RJ,Transferência
