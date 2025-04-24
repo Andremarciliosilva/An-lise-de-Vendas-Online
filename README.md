@@ -35,7 +35,7 @@ Analisar dados de vendas simulados de uma loja online, respondendo perguntas com
 ```bash
 ├── data/
 │   └── dados_vendas.csv        # Dados simulados
-│   └── img                     # Imagens
+├── img                     # Imagens
 ├── notebooks/
 │   └── analise_vendas.ipynb    # Notebook exploratório
 ├── output/
