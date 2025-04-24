@@ -80,7 +80,7 @@ O dataset contém 500 registros com as seguintes colunas:
 ![texto alternativo](img/clientes_que_mais_compram.png)
 
 •	Receita mensal ao longo do ano:    
-
+![texto alternativo](img/receita_mensal.png)
 
 ---
 
