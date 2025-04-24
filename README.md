@@ -4,7 +4,7 @@
 Este pipeline de Engenharia de Dados foi desenvolvido pra **extrair, transformar
 e analisar** dados de vendas utilizando **Python**, **Pandas** e **Matplotlib**. 
 A ideia foi desenvolver um pipeline que possa ser reutilizado em vários arquivos csv's 
-que possuam a mesma estrutura de colunas, por optei por construir classes com métodos 
+que possuam a mesma estrutura de colunas, por isso optei por construir classes com métodos 
 que possam ser utilizados pra analisar vários arquivos, bastando trocar apenas o nome do 
 arquivo que é passado quando a classe é invocada.
 
