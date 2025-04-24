@@ -64,10 +64,19 @@ O dataset contém 500 registros com as seguintes colunas:
 
 📊 **Análises Realizadas**
 
-•	Receita total por estado  
+•	Vendas totais por estado 
+![texto alternativo](img/vendas_totais_por_estado.png)
+
 •	Produto mais vendido por categoria  
-•	Top 5 clientes por volume de compras  
+![texto alternativo](img/produtos_mais_vendidos.png)
+
+
+•	Top 5 clientes por volume de compras 
+![texto alternativo](img/clientes_que_mais_compram.png)
+
 •	Receita mensal ao longo do ano  
+![texto alternativo](img/receita_mensal.png)
+
 
 ---
 
